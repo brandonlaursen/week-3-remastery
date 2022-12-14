@@ -6,7 +6,7 @@ So you've been set back a cohort... worry not as it not a set back, but more so 
 
 You now have the opportunity to go back, review, and master content to help make you a overall stronger software engineer!
 
-In this repo we've gathered some great problems to tackle to better prepare you for the assessment as well as two comprehension questions to test your understanding of week 3's content. We've also prepared a waterboarding walk through of the r2d2Speaks and mostFrequentVowel problems located in the walk through folder.
+In this repo we've gathered some great problems to tackle to better prepare you for the assessment as well as two comprehension questions to test your understanding of week 3's content. We've also prepared a whiteboarding walkthrough of the r2d2Speaks and mostFrequentVowel problems located in the walkthrough folder.
 
 Please take the time to work through this repo and complete all the problems as well as the comprehension questions.
 
